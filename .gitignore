@@ -1,0 +1,8 @@
+*.swp
+evdump/evdump
+ledoff/ledoff
+vaalum/*.cmi
+vaalum/*.cmx
+vaalum/*.o
+vaalum/vaalum.native
+vaalum/_build
